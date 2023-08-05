@@ -3,4 +3,4 @@ Metric conversion is the process of converting measurements from one unit of the
 
 In this repository i have written a python code which converts parameters like length, mass and time from SI to CGS, SI to FPS, CGS to FPS and vice versa
 
-I have used Graphical user interface (GUI) to make it easy to use and communicate
+Graphical user interface (GUI) is used to make it easy to use and communicate
